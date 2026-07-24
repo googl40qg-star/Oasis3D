@@ -1,0 +1,6 @@
+{
+  "name": "Neon Lounge",
+  "description": "3D Social Prototype Game inspired by Club Cooee with custom avatars, live rooms, text/voice chat, shop and SQLite persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
